@@ -1,1 +1,3 @@
-export default function ProductPage() {}
+export default function ProductPage() {
+
+}
